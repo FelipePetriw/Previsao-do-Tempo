@@ -1,4 +1,4 @@
-# Clone Spotify
+# Previsão do Tempo
 Projeto de consula a Previsão do Tempo.
 
 ## 💻 Sobre o Projeto
