@@ -6,8 +6,8 @@ Desenvolvimento de página web para consulta a Previsão do Tempo utilizando a A
 
 ## 🎨 Layout
 
-![image](https://github.com/FelipePetriw/Previsao-do-Tempo/blob/main/img/Apresenta%C3%A7%C3%A3o%2001.JPG)
-![image](https://github.com/FelipePetriw/Previsao-do-Tempo/blob/main/img/Apresenta%C3%A7%C3%A3o%2002.JPG)
+![image](https://github.com/FelipePetriw/Previsao-do-Tempo/blob/main/img/Apresenta%C3%A7%C3%A3o%2001.jpg)
+![image](https://github.com/FelipePetriw/Previsao-do-Tempo/blob/main/img/Apresenta%C3%A7%C3%A3o%2002.jpg)
 
 ## 🛠 Tecnologias
 
