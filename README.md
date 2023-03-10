@@ -1,5 +1,5 @@
 # Previsão do Tempo
-Projeto de consula a Previsão do Tempo.
+Projeto de consulta a Previsão do Tempo.
 
 ## 💻 Sobre o Projeto
 Desenvolvimento de página web para consulta a Previsão do Tempo utilizando a API da OpenWeather, utilizando as tecnologias HTML5, CSS3 e linguagem JavaScript.
